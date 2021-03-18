@@ -317,15 +317,3 @@
                 }
                 
                 #footer {}
-                
-                @media(min-width:740px) and (max-width:1023px) {
-                    .card-container {
-                        display: grid;
-                        grid-template-columns: none;
-                    }
-                    #nav li a {
-                        padding: 0 20px;
-                    }
-                }
-                
-                @media(max-width:739px) {}
