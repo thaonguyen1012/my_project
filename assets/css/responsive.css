@@ -9,12 +9,6 @@
             }
             
             @media(max-width:739px) {
-                .sticky {
-                    visibility: hidden;
-                }
-                #nav {
-                    display: none;
-                }
                 #nav li {
                     display: block;
                 }
@@ -41,6 +35,7 @@
                 }
                 #about {
                     height: 800px;
+                    text-align: -webkit-center;
                 }
                 .content-section {
                     height: 800px;
